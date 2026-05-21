@@ -1,4 +1,4 @@
-# DCP-Planner
+# dcp-planner
 
 A course schedule planning tool that scrapes Liberty University course data and uses constraint programming to generate optimized class schedules.
 
